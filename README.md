@@ -1,7 +1,7 @@
 
-[![MasterHead](https://miro.medium.com/max/1200/1*AUnW4zEpbfnqH1-1KmSpNw.png)
+![MasterHead](https://miro.medium.com/max/1200/1*AUnW4zEpbfnqH1-1KmSpNw.png)
 <h1 align="center">Hi 👋, I'm Riya</h1>
-<h3 align="center">Passionate in Data Analyst</h3>
+<h3 align="center">A Passionate Data Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riya-grace-john&label=Profile%20views&color=0e75b6&style=flat" alt="riya-grace-john" /> </p>
 
@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/riya grace john" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riya grace john" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/riya-grace-john-63a152221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riya grace john" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
